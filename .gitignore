@@ -1,0 +1,8 @@
+samples/
+data/
+.idea/
+__pycache__/
+papers/
+samples.zip
+Results.txt
+Results_new.txt
